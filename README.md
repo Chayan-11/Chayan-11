@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chayan 
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Open Source and Problem Solving
+- 🌱 I’m currently learning C and C++ 
+- 💞️ I’m looking to collaborate on projects once I'm done with the basics of the languages
 - 📫 How to reach me https://www.linkedin.com/in/chayan-debbarma/ 
 
 <!---
