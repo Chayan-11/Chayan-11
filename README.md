@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chayan Debbarma</h1>
-<h3 align="center">Computer Science really interests me and I look forward to learn new technologies and enhance my skill set and abilities. I'm always looking for opportunities to expand my horizons and help myself to grow professionally. Although I'm still in my exploration phase but still I feel I'll call myself a ~Tad Indecisive.</h3>
+<h3 align="center">Computer Science really interests me and I look forward to learn new technologies enhancing my skillset!
+  
+I'm always looking for opportunities to expand my horizons and help myself to grow professionally👨‍💻
+
+Although I'm in my exploration phase but still I feel I'll call myself a ~Tad Indecisive!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-11&label=Profile%20views&color=0e75b6&style=flat" alt="chayan-11" /> </p>
 
@@ -27,9 +31,9 @@
 <p align="left">
 <a href="https://twitter.com/be_it_chayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="be_it_chayan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chayan-debbarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chayan-debbarma/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16066338/chayan-debbarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16066338/chayan-debbarma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/chayan_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chayan_11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/chayan-11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chayan-11/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16066338/chayan-debbarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16066338/chayan-debbarma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chayan_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chayan_11" height="30" width="40" /></a>
+<a href="https://leetcode.com/Chayan-11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chayan-11/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
