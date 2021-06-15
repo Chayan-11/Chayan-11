@@ -23,7 +23,7 @@ Although I'm in my exploration phase but still I feel I'll call myself a ~Tad In
 
 - 📫 How to reach me **chayan.nit24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view](https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view?usp=sharing](https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view?usp=sharing)
 
 - ⚡ Fun fact **I'm way too superstitious!**
 
