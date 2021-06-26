@@ -7,23 +7,17 @@ Although I'm in my exploration phase but still I feel I'll call myself a ~Tad In
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-11&label=Profile%20views&color=0e75b6&style=flat" alt="chayan-11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chayan-11" alt="chayan-11" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/be_it_chayan" target="blank"><img src="https://img.shields.io/twitter/follow/be_it_chayan?logo=twitter&style=for-the-badge" alt="be_it_chayan" /></a> </p>
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **C and C++ programming languages along with HTML and CSS**
-
-- 👯 I’m looking to collaborate on **with others GitHub content**
+- 🌱 I’m currently learning **C,C++ programming languages along with Front-end web dev**
 
 - 🤝 I’m looking for help with **projects**
 
 - 💬 Ask me about **C language**
 
 - 📫 How to reach me **chayan.nit24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view?usp=sharing](https://drive.google.com/file/d/1k7A4dtnehriA6cqNltx9EQD-9W9O79pS/view?usp=sharing)
 
 - ⚡ Fun fact **I'm way too superstitious!**
 
