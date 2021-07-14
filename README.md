@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning UX Designing
 - 🤔 &nbsp; I keep interests in Content Writing
-- 🌱 &nbsp; I'm enthusiastic about Data Analysis
+- 🌱 &nbsp; I'm also enthusiastic about Data Analysis
 - 🖊  &nbsp; I'm way too Superstitious! 
 
 <h3>🛠 Tech Stack</h3>
