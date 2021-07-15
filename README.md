@@ -52,7 +52,7 @@
 
 
 <div align="center">
-<h5> 🤝🏻 Connect With Me @ </h5>
+<h3> 🤝🏻 Connect With Me @ </h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Chayan-11)
