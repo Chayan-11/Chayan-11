@@ -12,7 +12,6 @@
 - 🖊  &nbsp; I'm way too Superstitious! 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <h2>🛠 Tech Stack</h2>
 
 
@@ -37,6 +36,8 @@
 <!-- ![chayan's Github Stats](https://github-readme-stats.vercel.app/api?username=chayan-11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayan-11&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chayan's GitHub used languages">
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chayan-11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chayan-11 Github Stats">
@@ -44,7 +45,7 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayan-11&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayan-11&theme=tokyonight)](https://git.io/streak-stats)
 
 </br>
 
