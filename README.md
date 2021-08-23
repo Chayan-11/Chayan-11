@@ -61,7 +61,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:chayan.nit24@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-black?style=flat-square&logo=twitter)](https://twitter.com/be_it_chayan)
 [![HackerRank](https://img.shields.io/badge/hackerrank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/chayan_11)
-[![Sololearn](https://img.shields.io/badge/sololearn-black?style=flat-square&logo=sololearn)](https://www.sololearn.com/profile/20517246)
+[![CodeChef](https://img.shields.io/badge/codechef-black?style=flat-square&logo=codechef)](https://www.codechef.com/users/chayan_11)
 
 </div>
 
