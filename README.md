@@ -2,11 +2,13 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-## <p align="center"> Hey there! I'm Chayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
+### <p align="center"> Hey there! I'm Chayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
-<h3 align="center">  An Undergrad Student 👨‍🎓 |  Open Source Enthusiast  |  A Hodophile ✈   </h3>
+-------------------------------------------------------------------------------------
 
-## 
+<h4 align="center">  An Undergrad Student 👨‍🎓 |  Open Source Enthusiast  |  A Hodophile ✈   </h4>
+
+-------------------------------------------------------------------------------------
 
 
 ## 💻 Did You Know? 
