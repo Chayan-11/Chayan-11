@@ -2,17 +2,23 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h2> Hey there! I'm Chayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+## <p align="center"> Hey there! I'm Chayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
-<h2>💻 Did You Know?</h2>
+<h3 align="center">  An Undergrad Student 👨‍🎓 |  Open Source Enthusiast  |  A Hodophile ✈   </h3>
 
-- 📚 &nbsp; I’m currently learning UX Designing
+## 
+
+
+## 💻 Did You Know? 
+
+- 📚 &nbsp; I’m currently learning Data Structures & Algorithms
 - 🤔 &nbsp; I keep interests in Content Writing
 -  ⚙ &nbsp; I'm also enthusiastic about Data Analysis
 - 🖊  &nbsp; I'm way too Superstitious! 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h2>🛠 Tech Stack</h2>
+
+## 🛠 Tech Stack 
 
 
 
@@ -33,24 +39,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 <h2>⚙️ GitHub Analytics</h2>
-<br>
-<!-- ![chayan's Github Stats](https://github-readme-stats.vercel.app/api?username=chayan-11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayan-11&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chayan's GitHub used languages">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
-</br>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayan-11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chayan-11 Github Stats">
-
-
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayan-11&theme=tokyonight)](https://git.io/streak-stats)
-
-</br>
-
-
+<p align="right" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Chayan-11&theme=chartreuse-dark"></p>
 
 <div align="center">
 <h3> 🤝🏻 Connect With Me @ </h3>
@@ -72,3 +66,8 @@
   <img src="https://profile-counter.glitch.me/chayan-11/count.svg" />
 </p>
 
+--------------------------------------------------------------------------------
+
+### <p align="center"> 💕 Do drop a ⭐ if you find my repositories helpful ! 💕 </p>
+
+--------------------------------------------------------------------------------
