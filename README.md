@@ -2,25 +2,39 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
+<br/>
+
 ### <p align="center"> Hey there! I'm Chayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
 -------------------------------------------------------------------------------------
 
-<h4 align="center">  An Undergrad Student 👨‍🎓 |  Open Source Enthusiast  |  A Hodophile ✈   </h4>
+<h4 align="center"> 👨‍🎓 An Undergrad Student  |  Open Source Enthusiast  |  A Hodophile ✈   </h4>
 
 -------------------------------------------------------------------------------------
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## 💻 Did You Know? 
+<br/>
+
+ <a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+ <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+
+<br/>
+
+## 💢 Did You Know? 
+
+<br/>
 
 - 📚 &nbsp; I’m currently learning Data Structures & Algorithms
 - 🤔 &nbsp; I keep interests in Content Writing
 -  ⚙ &nbsp; I'm also enthusiastic about Data Analysis
 - 🖊  &nbsp; I'm way too Superstitious! 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br/>
 
 ## 🛠 Tech Stack 
+
+<br/>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -34,13 +48,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
+<br/>
+
 <h2>⚙️ GitHub Analytics</h2>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<br/>
+       
+<a href="https://github.com/Chayan-11">
+  
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" />
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  
+</a>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<br/>
 
-<p align="right" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Chayan-11&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Chayan-11&theme=chartreuse-dark"></p>
+        
+<br/>
 
 <div align="center">
 <h3> 🤝🏻 Connect With Me @ </h3>
