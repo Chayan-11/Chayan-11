@@ -57,7 +57,7 @@
 <a href="https://github.com/Chayan-11">
   
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" />
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
   
 </a>
 
