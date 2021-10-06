@@ -25,10 +25,10 @@
 
 <br/>
 
-- 📚 &nbsp; I’m currently learning Data Structures & Algorithms
-- 🤔 &nbsp; I keep interests in Content Writing
--  ⚙ &nbsp; I'm also enthusiastic about Data Analysis
-- 🖊  &nbsp; I'm way too Superstitious! 
+- 📚 &nbsp; **I’m currently learning Data Structures & Algorithms**
+- 🤔 &nbsp; **I keep interests in Content Writing**
+-  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis**
+- 🖊  &nbsp; **I'm way too Superstitious!** 
 
 <br/>
 
