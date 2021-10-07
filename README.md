@@ -56,14 +56,10 @@
        
 <a href="https://github.com/Chayan-11">
   
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Chayan-11&theme=chartreuse-dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chayan-11&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
   
 </a>
-
-<br/>
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Chayan-11&theme=chartreuse-dark"></p>
         
 <br/>
 
