@@ -77,9 +77,9 @@
 </div>
 
 <p align="center"> 
-  Visitor Count<br>
+  Visitor Count
   
-  
+  </br>
   <img src="https://profile-counter.glitch.me/chayan-11/count.svg" />
 </p>
 
