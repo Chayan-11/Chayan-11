@@ -61,8 +61,6 @@
   
 </a>
 
-<p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" /></p>
-        
 <br/>
 
 <div align="center">
