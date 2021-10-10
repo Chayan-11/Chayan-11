@@ -29,6 +29,7 @@
 - 🤔 &nbsp; **I keep interests in Content Writing**
 -  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis**
 - 🖊  &nbsp; **I'm way too Superstitious!** 
+- 📃 &nbsp; **I Write blogs on [Hashnode](https://hashnode.com/) and you can check it out on [Chayan's Blog](https://chayan.hashnode.dev/)**
 
 <br/>
 
