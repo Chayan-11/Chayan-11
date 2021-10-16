@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+<table>
+	<tr>
+		 <td>
 
-<br/>
+</br>
+
+![GitHub cover pic_profile](https://user-images.githubusercontent.com/76246106/137583904-bd37f12a-8778-49ea-b0b9-670bce545f90.png)
+ 
+ </table>
+ 
+----------------------------------------------
 
 ### <p align="center"> Hey there! I'm [Chayan](https://octoprofile.vercel.app/user?id=Chayan-11) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
-----------------------------------------------
 <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </p>
 
 -----------------------------------------------
