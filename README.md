@@ -6,11 +6,10 @@
 
 ### <p align="center"> Hey there! I'm [Chayan](https://octoprofile.vercel.app/user?id=Chayan-11) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
--------------------------------------------------------------------------------------
+----------------------------------------------
+<p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </p>
 
-<h4 align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </h4>
-
--------------------------------------------------------------------------------------
+-----------------------------------------------
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -64,6 +63,14 @@
 
 <br/>
 
+#
+
+![G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Chayan-11&theme=react-dark&hide_border=true&area=true)
+
+#
+
+<br/>
+
 <div align="center">
 <h3> 🤝🏻 Connect With Me @ </h3>
 
@@ -76,6 +83,8 @@
 [![CodeChef](https://img.shields.io/badge/codechef-black?style=flat-square&logo=codechef)](https://www.codechef.com/users/chayan_11)
 
 </div>
+
+<br/>
 
 <p align="center"> 
   Visitor Count
