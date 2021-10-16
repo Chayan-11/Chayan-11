@@ -70,7 +70,7 @@
 
 #
 
-![G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Chayan-11&theme=react-dark&hide_border=true&area=true)
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Chayan-11&theme=react-dark&hide_border=true&area=true)
 
 #
 
@@ -79,13 +79,13 @@
 <div align="center">
 <h3> 🤝🏻 Connect With Me @ </h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
-[![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Chayan-11)
-[![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/chayan_debbarma/)
-[![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:chayan.nit24@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-black?style=flat-square&logo=twitter)](https://twitter.com/be_it_chayan)
-[![HackerRank](https://img.shields.io/badge/hackerrank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/chayan_11)
-[![CodeChef](https://img.shields.io/badge/codechef-black?style=flat-square&logo=codechef)](https://www.codechef.com/users/chayan_11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Chayan-11)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/chayan_debbarma/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chayan.nit24@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/be_it_chayan)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chayan_11)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/chayan_11)
 
 </div>
 
