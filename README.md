@@ -12,7 +12,7 @@
 
 ### <p align="center"> Hey there! I'm [Chayan](https://octoprofile.vercel.app/user?id=Chayan-11) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
-<p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </p>
+### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </p>
 
 -----------------------------------------------
 
