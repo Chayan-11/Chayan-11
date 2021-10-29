@@ -16,12 +16,11 @@
 
 -----------------------------------------------
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p align="center"><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
 
 <br/>
 
- <a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
- <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+ <a href="https://github.com/Chayan-11"><p align="center"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></p></a>
 
 <br/>
 
