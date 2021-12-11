@@ -4,11 +4,11 @@
 
 </br>
 
-![GitHub cover pic_profile](https://user-images.githubusercontent.com/76246106/137583904-bd37f12a-8778-49ea-b0b9-670bce545f90.png)
+![GitHub Cover Updated](https://user-images.githubusercontent.com/76246106/145688710-c7547b40-b7dc-423b-bf76-78561108dbb6.png)
+
  
  </table>
  
-----------------------------------------------
 
 ### <p align="center"> Hey there! I'm [Chayan](https://octoprofile.vercel.app/user?id=Chayan-11) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<p align="center"><a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 <br/>
 
