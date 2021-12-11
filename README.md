@@ -20,7 +20,7 @@
 
 <br/>
 
-<p align="center"><a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Chayan-11"><img src="https://img.shields.io/github/followers/Chayan-11?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; <a href="https://github.com/Chayan-11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 <br/>
 
@@ -103,5 +103,3 @@
 
 --------------------------------------------------------------------------------
 
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" />
