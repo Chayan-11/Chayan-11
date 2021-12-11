@@ -102,3 +102,6 @@
 ### <p align="center"> 💕 Do drop a ⭐ if you find my repositories helpful ! 💕 </p>
 
 --------------------------------------------------------------------------------
+
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayan-11&layout=compact&hide=TSQL&theme=chartreuse-dark" />
