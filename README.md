@@ -14,7 +14,7 @@
 
 ### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast &nbsp; | &nbsp; A Hodophile ✈ &nbsp;  </p>
 
------------------------------------------------
+##
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -69,6 +69,8 @@
 
 #
 
+<br/>
+
 ![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Chayan-11&theme=react-dark&hide_border=true&area=true)
 
 #
@@ -97,9 +99,4 @@
   <img src="https://profile-counter.glitch.me/chayan-11/count.svg" />
 </p>
 
---------------------------------------------------------------------------------
-
 ### <p align="center"> 💕 Do drop a ⭐ if you find my repositories helpful ! 💕 </p>
-
---------------------------------------------------------------------------------
-
