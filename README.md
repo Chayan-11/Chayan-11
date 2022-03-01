@@ -29,8 +29,8 @@
 <br/>
 
 - 📚 &nbsp; **I’m currently learning Data Structures & Algorithms**
-- 🤔 &nbsp; **I keep interests in Content Writing**
--  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis**
+- 🤔 &nbsp; **I keep interests in Technical Writing**
+-  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis and CV**
 - 🖊  &nbsp; **I'm way too Superstitious!** 
 - 📃 &nbsp; **I Write blogs on [Hashnode](https://hashnode.com/) and you can check it out on [Chayan's Blog](https://chayan.hashnode.dev/)**
 
@@ -78,14 +78,14 @@
 <br/>
 
 <div align="center">
-<h3> 🤝🏻 Connect With Me @ </h3>
+<h3> 🤝🏻 Find me around @ </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
 [![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Chayan-11)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/chayan_debbarma/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chayan.nit24@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/be_it_chayan)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chayan_11)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/chayan24nit/profile)
 [![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/chayan_11)
 
 </div>
