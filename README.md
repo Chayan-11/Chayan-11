@@ -32,7 +32,7 @@
 - 🤔 &nbsp; **I keep interests in Technical Writing**
 -  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis and CV**
 - 🖊  &nbsp; **I'm way too Superstitious!** 
-- 📃 &nbsp; **I Write blogs on [Hashnode](https://hashnode.com/) and you can check it out on [Chayan's Blog](https://chayan.hashnode.dev/)**
+- 📃 &nbsp; **I Write blogs on ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) [Hashnode](https://hashnode.com/) and you can check it out on [Chayan's Blog](https://chayan.hashnode.dev/)**
 
 <br/>
 
