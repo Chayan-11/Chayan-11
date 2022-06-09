@@ -26,8 +26,7 @@
 
 - 📚 &nbsp; **I’m currently learning Data Structures & Algorithms**
 - 🤔 &nbsp; **I keep interests in Technical Writing & Research**
--  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis and CV**
-- 🖊  &nbsp; **I'm way too Superstitious!** 
+-  ⚙ &nbsp; **I'm also enthusiastic about Data Analysis and CV** 
 - 📃 &nbsp; **I Write blogs on [Hashnode](https://hashnode.com/) and you can check it out on [Chayan's Blog](https://chayan.hashnode.dev/)**
 
 <br/>
