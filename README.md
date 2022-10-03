@@ -82,6 +82,7 @@
 [![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chayan_11)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/chayan24nit/profile)
 [![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/chayan_11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/Chayan_11/)
 
 </div>
 
